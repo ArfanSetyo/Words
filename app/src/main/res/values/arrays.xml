@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string-array name="words">
+        <item>Ac Milan</item>
+        <item>Atalanta</item>
+        <item>Atletico Madrid</item>
+        <item>Ajax</item>
+        <item>Arsenal</item>
+        <item>Al Akmar</item>
+        <item>Atletic Bilbao</item>
+        <item>Barcelona</item>
+        <item>Benfica</item>
+        <item>Bayern Munchen</item>
+        <item>Borussia Dortmund</item>
+        <item>Bayer Leverkusen</item>
+        <item>Celtic</item>
+        <item>Chelsea</item>
+        <item>CSKA Moscow</item>
+        <item>Dundee United</item>
+        <item>Dream United</item>
+        <item>Eintranctk Frankurt</item>
+        <item>Espanyol</item>
+        <item>Eibar</item>
+        <item>Everton</item>
+        <item>Empoli</item>
+        <item>Fulham</item>
+        <item>Flamengo</item>
+        <item>Gladhbach</item>
+        <item>Genoa</item>
+        <item>Granada</item>
+        <item>Getafe</item>
+        <item>Huesca</item>
+        <item>Hoffeneim</item>
+        <item>Hannover</item>
+        <item>International</item>
+        <item>Inter Milan</item>
+        <item>Jack United</item>
+        <item>Juventus</item>
+        <item>Kelantan FA</item>
+        <item>Koln</item>
+        <item>KAA Gent</item>
+        <item>Liverpool</item>
+        <item>Lecce</item>
+        <item>Lille</item>
+        <item>Liecerter City</item>
+        <item>Leeds United</item>
+        <item>Leipzig</item>
+        <item>Lazio</item>
+        <item>Manchester United</item>
+        <item>Manchester City</item>
+        <item>Mallorca</item>
+        <item>Newcastle United</item>
+        <item>Norwich City</item>
+        <item>Napoli</item>
+        <item>Nice</item>
+        <item>Nantes</item>
+        <item>Marseille</item>
+        <item>Monako</item>
+        <item>Oliympicos Lyon</item>
+        <item>Osasuna</item>
+        <item>PSG</item>
+        <item>PSV</item>
+        <item>Parma</item>
+        <item>Porto</item>
+        <item>QPR</item>
+        <item>Real Madrid</item>
+        <item>Real Betis</item>
+        <item>Real Sociedad</item>
+        <item>Real Zaragoza</item>
+        <item>Rayo Valecano</item>
+        <item>Rennes</item>
+        <item>Sevilla</item>
+        <item>Shaktar Doneskt</item>
+        <item>Soutthamton</item>
+        <item>Sporting Lisbon</item>
+        <item>Tottenham Hotspur</item>
+        <item>Toulouse</item>
+        <item>Torino</item>
+        <item>Troyes</item>
+        <item>Udinese</item>
+        <item>Union Berlin</item>
+        <item>Valancia</item>
+        <item>Villareal</item>
+        <item>Valladolid</item>
+        <item>VFB</item>
+        <item>Wolves</item>
+        <item>Wolfburg</item>
+        <item>Watford</item>
+        <item>X Squqre</item>
+        <item>Young Boys</item>
+        <item>Zenits Petesburg</item>
+
+    </string-array>
+</resources>
